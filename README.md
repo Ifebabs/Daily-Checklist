@@ -12,7 +12,7 @@ Thought it wouldn't hurt to add to my Github.
 ## Usage
 1. Run the script:
 ```bash
-python checklist.py
+python dailyChecklist.py
 ```
 
 2. Enter your daily tasks when prompted
