@@ -1,7 +1,7 @@
 # Daily Checklist Generator
 
-A  script that generates a yearly checklist in Markdown format compatible with Notion.
 I made a quick Python script that generates a yearly checklist in Markdown format to use on Notion.  
+Thought it wouldn't hurt to add to my Github.
 
 ## Features
 - Interactive task input
