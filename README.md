@@ -1,6 +1,6 @@
 # Daily Checklist Generator
 
-I made a quick Python script that generates a yearly checklist in Markdown format to use on Notion.  
+I made a quick Python script that generates a yearly checklist in Markdown format to use on Obsidian.  
 Thought it wouldn't hurt to add to my Github.
 
 ## Features
