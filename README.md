@@ -6,7 +6,7 @@ Thought it wouldn't hurt to add to my Github.
 ## Features
 - Interactive task input
 - Creates to-do list for entire year (365 days)
-- Uses Notion-compatible checkboxes
+- Uses Obsidian-compatible checkboxes
 - Saves output as Markdown file
 
 ## Usage
